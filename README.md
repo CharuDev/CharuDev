@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charu Negi</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 👯 I’m looking to collaborate on **power bi ,python ,excel,sql**
+- 👯 I’m looking to collaborate on **Power Bi ,python ,excel,sql**
 
 - 📫 How to reach me **charunegi409@gmail.com**
 
