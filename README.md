@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charu Negi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👯 I’m looking to collaborate on **HTML,CSS,JAVASCRIPT,REACT**
+- 👯 I’m looking to collaborate on **HTML,CSS,JAVASCRIPT,REACT,"Tailwind**
 
 - 📫 How to reach me **charunegi409@gmail.com**
 
